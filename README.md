@@ -1,5 +1,6 @@
 # 🧠 Supervised Learning Workflow
-This project demonstrates a complete supervised learning workflow implemented in a Jupyter Notebook. It was created as part of an academic assignment and covers everything from data preparation to model evaluation and hyperparameter tuning.
+This project demonstrates a complete Linear Regression model implemented in a Jupyter Notebook. It was created as part of an academic assignment and covers everything from data preparation to model evaluation.
+
 
 # 📂 Contents
 Assignment2_supervised_learning_flow.ipynb — Jupyter notebook with full code and explanations.
