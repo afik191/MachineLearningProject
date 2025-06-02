@@ -3,11 +3,11 @@ This project demonstrates a complete Linear Regression model implemented in a Ju
 
 
 # 📂 Contents
-Assignment2_supervised_learning_flow.ipynb — Jupyter notebook with full code and explanations.
+* Assignment2_supervised_learning_flow.ipynb — Jupyter notebook with full code and explanations.
 
-Implementation of cross-validation with GridSearchCV.
+* Implementation of cross-validation with GridSearchCV.
 
-Feature engineering, feature selection, model training, and evaluation.
+* Feature engineering, feature selection, model training, and evaluation.
 
 # 🔍 Highlights
 Data Preprocessing:
