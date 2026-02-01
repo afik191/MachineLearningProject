@@ -1,15 +1,15 @@
-# 🧠 Supervised Learning Workflow
+#  Supervised Learning Workflow
 This project demonstrates a complete Linear Regression model implemented in a Jupyter Notebook. It was created as part of an academic assignment and covers everything from data preparation to model evaluation.
 
 
-# 📂 Contents
+#  Contents
 * Assignment2_supervised_learning_flow.ipynb — Jupyter notebook with full code and explanations.
 
 * Implementation of cross-validation with GridSearchCV.
 
 * Feature engineering, feature selection, model training, and evaluation.
 
-# 🔍 Highlights
+#  Highlights
 Data Preprocessing:
 
 * Feature Scaling – Scaling of features using methods like StandardScaler or similar
@@ -26,7 +26,7 @@ Machine Learning Models Used:
 
 * Logistic Regression 
 
-# 📊 Evaluation Metrics
+#  Evaluation Metrics
 The model is evaluated using standard regression metrics:
 
 * Mean Squared Error (MSE) – Measures the average squared difference between predicted and actual values.
@@ -37,7 +37,7 @@ The model is evaluated using standard regression metrics:
 
 
 
-# 🚀 How to Run
+#  How to Run
 1. Clone the repository or download the notebook.
 
 2. Open the notebook with Jupyter: jupyter notebook Assignment2_supervised_learning_flow.ipynb
